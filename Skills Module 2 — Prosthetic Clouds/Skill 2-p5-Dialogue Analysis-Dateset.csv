@@ -1,0 +1,354 @@
+index,start_time,end_time,text,polarity,sentiment
+1,0:00:27,0:00:28,yeah,0.0,Neutral
+2,0:00:46,0:00:46,uh,0.0,Neutral
+3,0:00:46,0:00:47,In Venice,0.0,Neutral
+4,0:00:47,0:00:49,I worked here before,0.0,Neutral
+5,0:00:49,0:00:51,so I know a few things,-0.2,Negative
+6,0:01:01,0:01:02,this place,0.0,Neutral
+7,0:01:02,0:01:04,you like the transport,0.0,Neutral
+8,0:01:04,0:01:05,public transportation,0.0,Neutral
+9,0:01:05,0:01:06,i,0.0,Neutral
+10,0:01:07,0:01:11,which way do you think is difficult to work,-0.5,Negative
+11,0:01:12,0:01:14,because it's so much,0.2,Positive
+12,0:01:17,0:01:17,ok,0.5,Positive
+13,0:01:17,0:01:18,so if I,0.0,Neutral
+14,0:01:18,0:01:19,need to park,0.0,Neutral
+15,0:01:19,0:01:20,like um a way,0.0,Neutral
+16,0:01:20,0:01:22,i think it's good to work,0.7,Positive
+17,0:01:43,0:01:46,i used to work like fast and slow in different,-0.03333333333333335,Negative
+18,0:01:48,0:01:50,i used to work fast,0.2,Positive
+19,0:02:10,0:02:12,Do you like walking in the park?,0.0,Neutral
+20,0:02:16,0:02:17,get on in now,0.0,Neutral
+21,0:02:18,0:02:19,can we do that bridge,0.0,Neutral
+22,0:02:20,0:02:21,i have to say to you,0.0,Neutral
+23,0:02:32,0:02:34,because before you went to hospital,0.0,Neutral
+24,0:02:34,0:02:34,alenon,0.0,Neutral
+25,0:02:36,0:02:38,but i also i don't do,0.0,Neutral
+26,0:02:38,0:02:39,i don't go in the same direction,0.0,Neutral
+27,0:02:42,0:02:43,yeah,0.0,Neutral
+28,0:02:43,0:02:44,here it's easy here,0.43333333333333335,Positive
+29,0:02:46,0:02:46,yeah,0.0,Neutral
+30,0:02:46,0:02:47,because there is no bridge,0.0,Neutral
+31,0:02:47,0:02:48,there are bridges here,0.0,Neutral
+32,0:02:49,0:02:49,so if you want yes,0.0,Neutral
+33,0:02:49,0:02:51,we can say like we can go to San Jose,0.0,Neutral
+34,0:02:52,0:02:53,San Jose,0.0,Neutral
+35,0:02:53,0:02:59,like the central bus station to subway to Finn,0.0,Neutral
+36,0:03:02,0:03:02,t,0.0,Neutral
+37,0:03:05,0:03:06,but it's quite easy,0.43333333333333335,Positive
+38,0:03:08,0:03:10,not too difficult,-0.5,Negative
+39,0:03:10,0:03:11,this one,0.0,Neutral
+40,0:03:11,0:03:12,no,0.0,Neutral
+41,0:03:12,0:03:13,not difficult,0.25,Positive
+42,0:03:15,0:03:17,not to say not for anything,0.0,Neutral
+43,0:03:18,0:03:19,or are you just,0.0,Neutral
+44,0:03:20,0:03:21,at at a location,0.0,Neutral
+45,0:03:21,0:03:22,yeah,0.0,Neutral
+46,0:03:23,0:03:24,for example,0.0,Neutral
+47,0:03:24,0:03:26,it is some market for tourists,0.0,Neutral
+48,0:03:26,0:03:27,um hum,0.0,Neutral
+49,0:03:29,0:03:31,or you prefer something that is not touristy,0.0,Neutral
+50,0:03:37,0:03:38,uh,0.0,Neutral
+51,0:03:40,0:03:41,more local,0.25,Positive
+52,0:03:41,0:03:42,more local,0.25,Positive
+53,0:03:42,0:03:42,yeah,0.0,Neutral
+54,0:03:42,0:03:43,so more local,0.25,Positive
+55,0:03:43,0:03:44,i don't know,0.0,Neutral
+56,0:03:46,0:03:47,um,0.0,Neutral
+57,0:03:56,0:03:56,OK,0.5,Positive
+58,0:03:56,0:03:56,for example,0.0,Neutral
+59,0:03:56,0:03:58,i want to go to the library,0.0,Neutral
+60,0:03:58,0:03:59,i want to study,0.0,Neutral
+61,0:03:59,0:03:59,ok,0.5,Positive
+62,0:03:59,0:04:00,uh,0.0,Neutral
+63,0:04:00,0:04:00,so,0.0,Neutral
+64,0:04:00,0:04:01,from the clinical,0.0,Neutral
+65,0:04:02,0:04:03,is always here,0.0,Neutral
+66,0:04:03,0:04:04,right,0.2857142857142857,Positive
+67,0:04:04,0:04:05,i'm going to study,0.0,Neutral
+68,0:04:06,0:04:06,ok,0.5,Positive
+69,0:04:06,0:04:07,so,0.0,Neutral
+70,0:04:07,0:04:08,here,0.0,Neutral
+71,0:04:38,0:04:39,OK,0.5,Positive
+72,0:04:39,0:04:40,so i was saying to them,0.0,Neutral
+73,0:04:40,0:04:42,because they're saying that's a local place to go,0.0,Neutral
+74,0:04:43,0:04:43,uh,0.0,Neutral
+75,0:04:43,0:04:45,so usually i'm going to study,-0.25,Negative
+76,0:04:45,0:04:47,to do research in crinism,0.0,Neutral
+77,0:04:47,0:04:47,and now i'm going,0.0,Neutral
+78,0:04:47,0:04:49,we are going to crinism,0.0,Neutral
+79,0:04:49,0:04:50,wow,0.1,Positive
+80,0:04:50,0:04:51,OK,0.5,Positive
+81,0:04:52,0:04:53,and then enter,0.0,Neutral
+82,0:04:54,0:05:02,Hahaha,0.2,Positive
+83,0:05:03,0:05:04,twenty three minutes,0.0,Neutral
+84,0:05:55,0:05:58,i asked you actually do this hard work,-0.14583333333333334,Negative
+85,0:05:58,0:05:58,i,0.0,Neutral
+86,0:05:59,0:05:59,yes,0.0,Neutral
+87,0:05:59,0:05:59,not,0.0,Neutral
+88,0:05:59,0:06:00,it's not heavy,0.1,Positive
+89,0:06:00,0:06:03,but it's just unbalanced,0.0,Neutral
+90,0:06:05,0:06:05,yeah,0.0,Neutral
+91,0:06:05,0:06:06,it's like i,0.0,Neutral
+92,0:06:06,0:06:09,and maybe i i got a pain in my back,0.0,Neutral
+93,0:06:09,0:06:12,maybe i would work like this if i had a little pain in my neck,-0.1875,Negative
+94,0:06:13,0:06:14,but just a little one,-0.1875,Negative
+95,0:06:19,0:06:20,so what I'm thinking is,0.0,Neutral
+96,0:06:20,0:06:22,make a game like this,-0.4,Negative
+97,0:06:22,0:06:23,anyway,0.0,Neutral
+98,0:06:23,0:06:24,yeah,0.0,Neutral
+99,0:06:27,0:06:28,they are comfortable,0.4,Positive
+100,0:06:28,0:06:28,yeah,0.0,Neutral
+101,0:06:28,0:06:29,yeah,0.0,Neutral
+102,0:06:31,0:06:31,yeah,0.0,Neutral
+103,0:06:33,0:06:34,yeah,0.0,Neutral
+104,0:06:34,0:06:34,yeah,0.0,Neutral
+105,0:06:47,0:06:50,did you uh have you already been in Dennis,0.0,Neutral
+106,0:06:51,0:06:52,the first time,0.25,Positive
+107,0:06:52,0:06:55,so all the studies that you've done,0.0,Neutral
+108,0:06:57,0:06:57,yeah,0.0,Neutral
+109,0:06:57,0:06:57,yeah,0.0,Neutral
+110,0:06:57,0:06:58,yeah,0.0,Neutral
+111,0:06:58,0:07:00,so we come here to collect the,0.0,Neutral
+112,0:08:17,0:08:25,Let's change the scenery,0.0,Neutral
+113,0:08:48,0:08:51,Yay yay yay,0.0,Neutral
+114,0:08:51,0:08:52,Yay,0.0,Neutral
+115,0:08:53,0:08:54,guys,0.0,Neutral
+116,0:08:54,0:08:55,can i change the destination,0.0,Neutral
+117,0:08:56,0:08:57,or no,0.0,Neutral
+118,0:09:02,0:09:03,so it's another part of the city,0.0,Neutral
+119,0:09:03,0:09:06,because otherwise it would have been in the same of the hospital,0.0,Neutral
+120,0:09:07,0:09:08,so that's the opposite,0.0,Neutral
+121,0:09:21,0:09:23,they were looking at our shopee,0.0,Neutral
+122,0:09:23,0:09:24,they were looking very good,0.9099999999999999,Positive
+123,0:09:48,0:09:48,Oh,0.0,Neutral
+124,0:09:48,0:09:49,That ball,0.0,Neutral
+125,0:09:52,0:09:52,uh,0.0,Neutral
+126,0:09:52,0:09:53,i'm just running,0.0,Neutral
+127,0:09:54,0:09:55,going there,0.0,Neutral
+128,0:10:08,0:10:14,i think it's like following following a large,0.07142857142857142,Positive
+129,0:10:26,0:10:26,Ah,0.0,Neutral
+130,0:10:26,0:10:27,You you you,0.0,Neutral
+131,0:10:27,0:10:28,try it on you,0.0,Neutral
+132,0:10:36,0:10:37,um,0.0,Neutral
+133,0:10:44,0:10:45,um,0.0,Neutral
+134,0:10:51,0:10:52,Surprise,0.0,Neutral
+135,0:10:55,0:10:56,Wow,0.1,Positive
+136,0:10:58,0:10:59,Unbelievable,-0.25,Negative
+137,0:10:59,0:11:00,You have all these,0.0,Neutral
+138,0:11:00,0:11:01,these skills,0.0,Neutral
+139,0:11:02,0:11:03,I don't know,0.0,Neutral
+140,0:11:03,0:11:04,Professionally make this kind of stuff,0.35,Positive
+141,0:11:04,0:11:05,Study architecture,0.0,Neutral
+142,0:11:05,0:11:06,I mean,-0.3125,Negative
+143,0:11:06,0:11:07,I mean,-0.3125,Negative
+144,0:11:07,0:11:08,How did you learn this?,0.0,Neutral
+145,0:11:09,0:11:09,so,0.0,Neutral
+146,0:11:10,0:11:10,like,0.0,Neutral
+147,0:11:11,0:11:13,being being able to do this,0.5,Positive
+148,0:11:15,0:11:16,yeah,0.0,Neutral
+149,0:11:16,0:11:16,it's good question,0.7,Positive
+150,0:11:17,0:11:18,how's it going,0.0,Neutral
+151,0:11:18,0:11:24,we just uh learn website or to apply to ai,0.0,Neutral
+152,0:11:25,0:11:26,wow,0.1,Positive
+153,0:11:26,0:11:26,This is alone,0.0,Neutral
+154,0:11:28,0:11:29,They like it too,0.0,Neutral
+155,0:11:29,0:11:30,While we have time,0.0,Neutral
+156,0:11:30,0:11:32,We have a class,0.0,Neutral
+157,0:11:33,0:11:33,about,0.0,Neutral
+158,0:11:33,0:11:34,how we,0.0,Neutral
+159,0:11:34,0:11:35,combine,0.0,Neutral
+160,0:11:35,0:11:36,uh,0.0,Neutral
+161,0:11:36,0:11:37,the,0.0,Neutral
+162,0:11:37,0:11:38,network,0.0,Neutral
+163,0:11:38,0:11:38,the,0.0,Neutral
+164,0:11:39,0:11:40,small,-0.25,Negative
+165,0:11:40,0:11:41,things,0.0,Neutral
+166,0:11:41,0:11:41,work,0.0,Neutral
+167,0:11:41,0:11:41,work,0.0,Neutral
+168,0:11:41,0:11:41,work,0.0,Neutral
+169,0:11:41,0:11:42,better,0.5,Positive
+170,0:11:42,0:11:42,and,0.0,Neutral
+171,0:11:42,0:11:42,you,0.0,Neutral
+172,0:11:42,0:11:43,can,0.0,Neutral
+173,0:11:43,0:11:46,by anything anything like do me,0.0,Neutral
+174,0:11:46,0:11:48,i like to make it better,0.5,Positive
+175,0:11:48,0:11:48,um hum,0.0,Neutral
+176,0:11:48,0:11:50,and for the cold,-0.6,Negative
+177,0:11:51,0:11:52,so,0.0,Neutral
+178,0:11:57,0:12:01,When the light changes,0.4,Positive
+179,0:12:01,0:12:02,Right,0.2857142857142857,Positive
+180,0:12:03,0:12:06,How does the sensor work?,0.0,Neutral
+181,0:12:06,0:12:07,so you,0.0,Neutral
+182,0:12:07,0:12:08,you learned,0.0,Neutral
+183,0:12:09,0:12:11,you try to do it alone,0.0,Neutral
+184,0:12:11,0:12:11,no,0.0,Neutral
+185,0:12:11,0:12:11,with the,0.0,Neutral
+186,0:12:11,0:12:13,the help of the ai,0.0,Neutral
+187,0:12:13,0:12:14,basically,0.0,Neutral
+188,0:12:16,0:12:16,yeah,0.0,Neutral
+189,0:12:16,0:12:16,yeah,0.0,Neutral
+190,0:12:16,0:12:17,yeah,0.0,Neutral
+191,0:12:17,0:12:24,it is this most uh efficiency,0.5,Positive
+192,0:12:26,0:12:28,because you know uh we,0.0,Neutral
+193,0:12:30,0:12:31,yeah,0.0,Neutral
+194,0:12:31,0:12:32,exactly,0.25,Positive
+195,0:12:32,0:12:33,we just,0.0,Neutral
+196,0:12:34,0:12:35,so we can just only,0.0,Neutral
+197,0:12:36,0:12:39,use ai or just watching the video online,0.0,Neutral
+198,0:12:39,0:12:39,yeah,0.0,Neutral
+199,0:12:39,0:12:42,but it's still incredible i think also,0.9,Positive
+200,0:12:42,0:12:43,i mean,-0.3125,Negative
+201,0:12:43,0:12:45,because it's not easy to do it also if you,-0.21666666666666667,Negative
+202,0:12:46,0:12:47,have to,0.0,Neutral
+203,0:12:47,0:12:49,if you're asked with ai or,0.0,Neutral
+204,0:12:50,0:12:51,yeah yeah,0.0,Neutral
+205,0:12:51,0:12:56,you have to ask more many many times to fix the code,0.5,Positive
+206,0:12:56,0:12:57,yeah,0.0,Neutral
+207,0:12:57,0:12:58,to bridge the,0.0,Neutral
+208,0:13:00,0:13:01,and are you using here,0.0,Neutral
+209,0:13:01,0:13:02,are you also to,0.0,Neutral
+210,0:13:09,0:13:10,Go this way,0.0,Neutral
+211,0:13:15,0:13:15,Yes,0.0,Neutral
+212,0:13:19,0:13:19,Yes,0.0,Neutral
+213,0:13:45,0:13:47,This is pressure,0.0,Neutral
+214,0:13:49,0:13:52,This is pressure,0.0,Neutral
+215,0:13:53,0:13:53,Right,0.2857142857142857,Positive
+216,0:13:53,0:13:58,Pressure,0.0,Neutral
+217,0:13:58,0:13:59,ok,0.5,Positive
+218,0:14:02,0:14:02,wow,0.1,Positive
+219,0:14:02,0:14:03,Do you have GPS?,0.0,Neutral
+220,0:14:03,0:14:04,Yes,0.0,Neutral
+221,0:14:05,0:14:06,Where do you want to go?,0.0,Neutral
+222,0:14:06,0:14:07,You can record it,0.0,Neutral
+223,0:14:07,0:14:08,Yes,0.0,Neutral
+224,0:14:08,0:14:10,You can look here,0.0,Neutral
+225,0:14:54,0:14:58,but i never think we can see something,0.0,Neutral
+226,0:14:58,0:14:59,We just,0.0,Neutral
+227,0:14:59,0:15:00,That is,0.0,Neutral
+228,0:15:06,0:15:07,in China,0.0,Neutral
+229,0:15:07,0:15:10,if you wanna study Chinese,0.0,Neutral
+230,0:15:10,0:15:11,you just,0.0,Neutral
+231,0:15:14,0:15:14,Right,0.2857142857142857,Positive
+232,0:15:17,0:15:18,Right,0.2857142857142857,Positive
+233,0:15:20,0:15:21,Maybe,0.0,Neutral
+234,0:15:22,0:15:23,This is a,0.0,Neutral
+235,0:15:23,0:15:23,No,0.0,Neutral
+236,0:15:23,0:15:24,Exception,0.0,Neutral
+237,0:15:24,0:15:25,Ordinary,-0.25,Negative
+238,0:15:26,0:15:26,um,0.0,Neutral
+239,0:15:28,0:15:29,Yes,0.0,Neutral
+240,0:16:00,0:16:02,and did you study veterinary science,0.0,Neutral
+241,0:16:02,0:16:03,uh,0.0,Neutral
+242,0:16:04,0:16:06,it's a three years before going,0.0,Neutral
+243,0:16:06,0:16:06,oh,0.0,Neutral
+244,0:16:06,0:16:06,no,0.0,Neutral
+245,0:16:06,0:16:06,no,0.0,Neutral
+246,0:16:06,0:16:07,uh,0.0,Neutral
+247,0:16:07,0:16:07,we are,0.0,Neutral
+248,0:16:07,0:16:10,i have studied architecture,0.0,Neutral
+249,0:16:11,0:16:15,and i was my undergraduate three in Manchester,0.0,Neutral
+250,0:16:16,0:16:16,Oh,0.0,Neutral
+251,0:16:16,0:16:16,Okay,0.5,Positive
+252,0:16:16,0:16:17,so,0.0,Neutral
+253,0:16:17,0:16:18,for three years,0.0,Neutral
+254,0:16:18,0:16:19,so,0.0,Neutral
+255,0:16:20,0:16:21,yeah,0.0,Neutral
+256,0:16:21,0:16:22,so postgraduate,0.0,Neutral
+257,0:16:22,0:16:23,oh,0.0,Neutral
+258,0:16:24,0:16:25,sorry,-0.5,Negative
+259,0:16:28,0:16:28,i know,0.0,Neutral
+260,0:16:28,0:16:29,maybe we can go there,0.0,Neutral
+261,0:16:30,0:16:30,yeah,0.0,Neutral
+262,0:16:55,0:16:56,yeah,0.0,Neutral
+263,0:17:04,0:17:09,so you have time till June or when is the final review,0.0,Neutral
+264,0:17:09,0:17:10,final,0.0,Neutral
+265,0:17:10,0:17:11,final electric,0.0,Neutral
+266,0:17:13,0:17:15,July July July July,0.0,Neutral
+267,0:17:16,0:17:17,and you have to out of these,0.0,Neutral
+268,0:17:17,0:17:20,you have to do a project,0.0,Neutral
+269,0:17:20,0:17:21,yeah,0.0,Neutral
+270,0:17:21,0:17:23,so this is the one of data collection,0.0,Neutral
+271,0:17:26,0:17:27,this is more important,0.45,Positive
+272,0:17:27,0:17:30,i i think i think this is the most important things,0.45,Positive
+273,0:17:30,0:17:30,um,0.0,Neutral
+274,0:17:30,0:17:31,during our research,0.0,Neutral
+275,0:17:31,0:17:36,because we have to analysis all the things based on this,0.0,Neutral
+276,0:17:36,0:17:37,Right,0.2857142857142857,Positive
+277,0:17:37,0:17:38,So,0.0,Neutral
+278,0:17:41,0:17:43,is the Russian pavilion closed,-0.05,Negative
+279,0:17:45,0:17:46,yeah,0.0,Neutral
+280,0:17:46,0:17:47,it's important to be here,0.4,Positive
+281,0:17:47,0:17:50,so you can do everything better by practice,0.5,Positive
+282,0:17:50,0:17:57,because the things you see on internet is different from what you see at the place,0.0,Neutral
+283,0:17:57,0:17:58,yeah,0.0,Neutral
+284,0:18:09,0:18:11,It really is already,0.2,Positive
+285,0:18:13,0:18:14,Now,0.0,Neutral
+286,0:18:50,0:18:52,Hahaha,0.2,Positive
+287,0:18:56,0:18:56,after this,0.0,Neutral
+288,0:18:56,0:18:59,there is just i think one bridge to do,0.0,Neutral
+289,0:19:05,0:19:08,so you can see some leakage inside of the,0.0,Neutral
+290,0:19:09,0:19:10,ah,0.0,Neutral
+291,0:19:10,0:19:10,yeah,0.0,Neutral
+292,0:19:10,0:19:11,so we will fix it,0.0,Neutral
+293,0:19:14,0:19:16,there is less ways like this at the end,-0.16666666666666666,Negative
+294,0:19:16,0:19:17,yeah,0.0,Neutral
+295,0:19:22,0:19:24,how many kilos is this,0.5,Positive
+296,0:19:27,0:19:33,these these these the sand is five kilos,0.0,Neutral
+297,0:19:37,0:19:38,Almost,0.0,Neutral
+298,0:19:59,0:20:01,the vib- the vibration also here,0.0,Neutral
+299,0:20:01,0:20:02,uh huh,0.0,Neutral
+300,0:20:05,0:20:06,quiches,0.0,Neutral
+301,0:20:06,0:20:07,the muscle,0.0,Neutral
+302,0:20:07,0:20:08,quiches,0.0,Neutral
+303,0:20:08,0:20:08,when you,0.0,Neutral
+304,0:20:10,0:20:10,yeah,0.0,Neutral
+305,0:20:10,0:20:12,go upstairs,0.0,Neutral
+306,0:20:12,0:20:13,and you'll feel the,0.0,Neutral
+307,0:20:14,0:20:15,it's hard to,-0.2916666666666667,Negative
+308,0:20:16,0:20:18,more and livestreaming more of the world,0.5,Positive
+309,0:20:18,0:20:19,yeah,0.0,Neutral
+310,0:20:19,0:20:22,to simulate the that kind of feeling so,0.6,Positive
+311,0:20:22,0:20:24,but the the the the the the the people,0.0,Neutral
+312,0:20:25,0:20:26,it's not working,0.0,Neutral
+313,0:20:27,0:20:27,Ah,0.0,Neutral
+314,0:20:27,0:20:28,and also,0.0,Neutral
+315,0:20:28,0:20:28,yeah,0.0,Neutral
+316,0:20:28,0:20:31,because i think that you can see here,0.0,Neutral
+317,0:20:32,0:20:33,Hey,0.0,Neutral
+318,0:20:33,0:20:34,in,0.0,Neutral
+319,0:20:34,0:20:34,inside is,0.0,Neutral
+320,0:20:35,0:20:36,Ah,0.0,Neutral
+321,0:20:36,0:20:36,it's,0.0,Neutral
+322,0:20:36,0:20:36,it's,0.0,Neutral
+323,0:20:36,0:20:37,it's mine,0.0,Neutral
+324,0:20:38,0:20:39,what's the most important thing,0.45,Positive
+325,0:20:41,0:20:42,ok,0.5,Positive
+326,0:20:42,0:20:43,you feel the weight,0.0,Neutral
+327,0:20:43,0:20:43,yes,0.0,Neutral
+328,0:20:43,0:20:48,i feel i feel afterwards i feel the back more than the legs,0.25,Positive
+329,0:21:04,0:21:04,right,0.2857142857142857,Positive
+330,0:21:04,0:21:05,we can go,0.0,Neutral
+331,0:21:05,0:21:09,we can arrive till the place where do sports usually,-0.25,Negative
+332,0:21:09,0:21:10,and then coming back,0.0,Neutral
+333,0:21:10,0:21:11,OK,0.5,Positive
+334,0:21:28,0:21:31,and this is also a super residential area in Bangkok,0.3333333333333333,Positive
+335,0:21:33,0:21:34,i mean,-0.3125,Negative
+336,0:21:34,0:21:37,leave by local people,0.0,Neutral
+337,0:21:37,0:21:38,a lot more fun,0.4,Positive
+338,0:21:38,0:21:39,super weird,-0.08333333333333334,Negative
+339,0:21:42,0:21:42,Ah,0.0,Neutral
+340,0:21:42,0:21:42,Oh,0.0,Neutral
+341,0:21:42,0:21:42,This,0.0,Neutral
+342,0:21:42,0:21:44,You can you can go,0.0,Neutral
+343,0:21:53,0:21:55,so the last show is finished,0.0,Neutral
+344,0:21:56,0:22:00,and uh we go,0.0,Neutral
+345,0:22:01,0:22:02,Ah,0.0,Neutral
+346,0:22:02,0:22:03,so,0.0,Neutral
+347,0:22:03,0:22:04,before,0.0,Neutral
+348,0:22:04,0:22:06,so the first road,0.25,Positive
+349,0:22:07,0:22:08,hospital,0.0,Neutral
+350,0:22:08,0:22:08,so yeah,0.0,Neutral
+351,0:22:08,0:22:09,and we,0.0,Neutral
+352,0:22:11,0:22:12,like,0.0,Neutral
+353,0:22:12,0:22:16,so we walks kind of slower,0.6,Positive
