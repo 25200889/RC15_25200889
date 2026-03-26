@@ -1,0 +1,29 @@
+name,address,lat,lon,type,cuisine,rating,review_count
+文兴酒家 (Four Seasons),11-12 Gerrard St,51.51175,-0.13028,粤菜,烧腊/粤菜,4.3,1200
+文兴酒家 (Wardour St),23 Wardour St,51.51208,-0.1313,粤菜,烧腊/粤菜,4.2,800
+新龙凤大酒楼,42-43 Gerrard St,51.51186,-0.13085,粤菜,粤菜/点心,4.0,600
+中国城大酒楼,"25a White Bear Yard, Lisle St",51.5112,-0.1317,粤菜,粤菜/点心,4.1,500
+皇朝 (Royal China),40-42 Gerrard St,51.5118,-0.13065,粤菜,点心/粤菜,4.4,900
+翠亨邨,27 Gerrard St,51.5116,-0.13045,粤菜,粤菜,4.2,400
+好栈,8 Gerrard St,51.51135,-0.1301,粤菜,创新粤菜,4.3,350
+锦里 (JinLi),4 Leicester St,51.51055,-0.12925,川菜,川菜/烤鱼,4.5,1500
+蜀香格,10 Gerrard St,51.5114,-0.1302,火锅,四川火锅,4.6,1100
+风味食堂,46 Gerrard Street,51.51195,-0.131,综合,麻辣香锅/火锅,4.3,700
+水月巴山,28 Gerrard St,51.51165,-0.1305,川菜,川菜/烤鱼,4.4,800
+农家大院,12 Macclesfield St,51.5121,-0.13125,贵州菜,贵州菜,4.2,300
+爽爽,64 Shaftesbury Ave,51.513,-0.1295,火锅,回转火锅,4.1,400
+张亮麻辣烫,18 Newport St,51.51195,-0.12925,麻辣烫,麻辣烫,4.2,500
+Bun House,23 Gerrard St,51.5115,-0.1303,小吃,包子/点心,4.5,600
+Noodle Inn,8 Gerrard St,51.51135,-0.1301,面馆,手工面,4.3,450
+New Young Cheng,15 Gerrard St,51.51145,-0.13025,综合,中餐,4.2,300
+Shaxin Delicacies,42 Gerrard St,51.51185,-0.1307,小吃,特色小吃,4.1,200
+唐人饼家,8 Gerrard St,51.51135,-0.1301,甜品,面包/甜品,4.4,550
+Cha Cha Roll,2 Gerrard St,51.51125,-0.13005,甜品,舒芙蕾,4.5,400
+Kova Patisserie,9 Gerrard St,51.51138,-0.13015,甜品,日式甜品,4.6,350
+Machi Machi,17 Gerrard St,51.51148,-0.13028,饮品,奶茶,4.3,600
+Kissaten,12 Gerrard St,51.5114,-0.13018,饮品,日式奶茶,4.4,300
+Chayan,237 Shaftesbury Ave,51.5142,-0.1285,饮品,奶茶,4.3,250
+新界奇华餐厅,19 Gerrard St,51.5115,-0.1303,宵夜,港式,4.1,300
+Speedboat Bar,12 Gerrard St,51.5114,-0.13018,酒吧,泰式中餐,4.4,400
+Swift,12 Old Compton St,51.513,-0.1305,酒吧,鸡尾酒,4.7,800
+Bar Termini,7 Old Compton St,51.5128,-0.1303,酒吧,意式酒吧,4.6,500
