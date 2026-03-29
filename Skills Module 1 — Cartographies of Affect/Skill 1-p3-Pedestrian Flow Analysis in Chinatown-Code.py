@@ -18,7 +18,7 @@ import folium
 from folium.plugins import HeatMap
 
 # ========== Configuration Parameters ==========
-API_KEY = "7e3a26760a42c3a6bc9b66b327df0fc6"  # Your Flickr API Key
+API_KEY = "Flickr_API_Key"  # Your Flickr API Key
 
 # London Chinatown bounding box (adjustable as needed)
 CHINATOWN_BBOX = "-0.1350,51.5085,-0.1250,51.5140"
