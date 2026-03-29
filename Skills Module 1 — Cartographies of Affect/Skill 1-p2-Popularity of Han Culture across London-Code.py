@@ -17,7 +17,7 @@ import folium
 from folium.plugins import HeatMap
 
 # ========== Configuration Parameters ==========
-API_KEY = "7e3a26760a42c3a6bc9b66b327df0fc6"  # Replace with your valid Flickr API Key
+API_KEY = "Flickr_API_Key"  # Replace with your valid Flickr API Key
 
 # London bounding box (format: min_lon, min_lat, max_lon, max_lat)
 LONDON_BBOX = "-0.510,51.280,0.334,51.686"  # Covers Greater London area
